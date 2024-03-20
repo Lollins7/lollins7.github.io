@@ -12,7 +12,7 @@ title                    : "Zijie Wang - Personal Website"
 title_separator          : "-"
 name                     : &name "Zijie Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zijiewang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lollins7/zijiewang.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zijie Wang"
   pronouns         : # example: "she/her"  
-  bio              : "School of Mathematics and Statistics, Undergradate"
+  bio              : "School of Mathematics and Statistics, Undergraduate"
   location         : "Wuhu, China"
-  employer         : "Anhui Normal Universit"
+  employer         : "Anhui Normal University"
   uri              : # URL
   email            : "jieyu8258gamil.com" 
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "LollinsWhale"  # Replace this with your X / Twitter handle
+  # twitter          : "LollinsWhale"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
