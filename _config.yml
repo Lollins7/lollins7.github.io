@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Wuhu-China"
-title                    : "Zijie Wang - Personal Website"
+title                    : "Academic Homepages"
 title_separator          : "-"
 name                     : &name "Zijie Wang"
 description              : &description "personal description"
