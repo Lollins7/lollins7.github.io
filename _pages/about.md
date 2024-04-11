@@ -15,8 +15,8 @@ There are some of [mathematical notes](https://github.com/Lollins7/VSCode/tree/m
 ======
 - *2022* National-level project approval in the User
 College Students' Innovative Entrepreneurial Training Plan Program.
-- *2023* First prize in the Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM).(Nominated for the National Second Prize)
-- *2023* First prize in the Anhui Provincial Competition of the National College Students Statistical Modeling Contest.
+- *2023* First prize winner of the Anhui Province division in the Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM).(Nominated for the National Second Prize)
+- *2023* First prize winner of the Anhui Province division in the National College Students Statistical Modeling Contest.
 - *2023* First prize winner of the Anhui Province division in the National College Student Marketing Investigation and Analysis Competition.
 - *2023* Second-class outstanding student scholarship of AHNU.
 - *2022* First-class outstanding student scholarship of AHNU.
