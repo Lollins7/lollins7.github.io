@@ -27,4 +27,7 @@ group :jekyll_plugins do
   gem "webrick", "~> 1.8"
   gem 'jekyll-sass-converter', '1.5.2'
   gem 'faraday-retry'
+  gem 'jekyll', '~> 3.9.5'
+  gem 'tzinfo', '~> 2.0'
+  gem 'tzinfo-data'
 end
