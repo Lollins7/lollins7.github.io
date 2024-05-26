@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Statistics, Anhui Normal University, 2025 (expected)
+* M.S. in Computer Science, Hefei University of Technology, 2025-2028(expected)
+* B.S. in Statistics, Anhui Normal University, 2021-2025
 
-Work experience
-======
+<!-- Work experience
+====== -->
 <!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -34,31 +34,31 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Probabilistic Machine Learning
+* Programming
+  * C/C++
+  * Python
+  * Matlab
+* LaTeX
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
