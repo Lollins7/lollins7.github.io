@@ -30,5 +30,4 @@ group :jekyll_plugins do
   gem 'jekyll', '~> 3.9.5'
   gem 'tzinfo', '~> 2.0'
   gem 'tzinfo-data'
-  gem "github-pages", group: :jekyll_plugins
 end
