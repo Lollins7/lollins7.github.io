@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Wuhu-China"
+locale                   : "Hefei-China"
 title                    : "Homepages"
 title_separator          : "-"
 name                     : &name "Zijie Wang"
@@ -25,7 +25,7 @@ author:
   name             : "Zijie Wang"
   pronouns         : # example: "she/her"  
   bio              : "School of Mathematics and Statistics, Undergraduate"
-  location         : "Wuhu, China"
+  location         : "Hefei, China"
   employer         : "Anhui Normal University"
   uri              : # URL
   email            : "jieyu8258gamil.com" 
