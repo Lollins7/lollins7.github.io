@@ -16,6 +16,6 @@ Honors and Awards
 - *2023* First prize winner of the Anhui Province division in the Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM)(全国大学生数学建模大赛).(Nominated for the National Second Prize)
 - *2023* First prize winner of the Anhui Province division in the National College Students Statistical Modeling Contest(全国大学生统计建模大赛).
 - *2023* First prize winner of the Anhui Province division in the National College Student Marketing Investigation and Analysis Competition(市场调查与分析大赛).
-- *2023* Second-class outstanding student scholarship of AHNU.
+- *2024* Second-class outstanding student scholarship of AHNU.
 - *2023* Second-class outstanding student scholarship of AHNU.
 - *2022* First-class outstanding student scholarship of AHNU.
