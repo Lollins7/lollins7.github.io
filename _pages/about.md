@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate at [Anhui Normal University](https://www.ahnu.edu.cn/) and a pre-graduate student at [Hefei University of Technology](https://www.hfut.edu.cn/). My research interest focuses on probabilistic machine learning, uncertainty quantification, generative AI and deep learning.
+I am a pre-graduate student at [Hefei University of Technology](https://www.hfut.edu.cn/). My research interest focuses on probabilistic machine learning, uncertainty quantification, generative AI and deep learning.
 
 <!-- There are some of [mathematical notes](https://github.com/Lollins7/VSCode/tree/main/LaTeX/Notes) I took during my undergraduates studies to practice to use LaTeX. Meanwhile, I was writing a [note](https://zhuanlan.zhihu.com/p/699377272) recently about probabilistic machine learning. -->
 
