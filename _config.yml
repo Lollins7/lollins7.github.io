@@ -10,7 +10,7 @@
 locale                   : "Hefei-China"
 title                    : "Homepages"
 title_separator          : "-"
-name                     : &name "Zijie Wang"
+name                     : &name "Zijie Wang(王子颉)"
 description              : &description "personal description"
 url                      : https://lollins7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
