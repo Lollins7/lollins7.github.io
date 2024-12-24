@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Computer Science, Hefei University of Technology, 2025-2028(expected) -->
-* B.S. in Statistics, Anhui Normal University, 2021-2025(expected)
+* M.S. in Computer Science, Hefei University of Technology, 2025-2028(expected)
+* B.S. in Statistics, Anhui Normal University, 2021-2025
 
 <!-- Work experience
 ====== -->
@@ -32,14 +32,14 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Probabilistic Machine Learning
 * Programming
   * C/C++
   * Python
   * Matlab
-* LaTeX
+* LaTeX -->
 
 <!-- Publications
 ======

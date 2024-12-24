@@ -10,7 +10,7 @@
 locale                   : "Hefei-China"
 title                    : "Homepages"
 title_separator          : "-"
-name                     : &name "Zijie Wang(王子颉)"
+name                     : &name "Zijie Wang"
 description              : &description "personal description"
 url                      : https://lollins7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "Lollins7/lollins7.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Zijie Wang"
+  name             : "Zijie Wang(王子颉)"
   pronouns         : # example: "she/her"  
-  bio              : "School of Mathematics and Statistics, Undergraduate"
+  bio              : "The School of Computer Science and Information Engineering"
   location         : "Hefei, China"
-  employer         : "Anhui Normal University"
+  employer         : "Hefei University of Technology"
   uri              : # URL
-  email            : "jieyu8258gamil.com" 
+  email            : "jieyu8258@gamil.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
