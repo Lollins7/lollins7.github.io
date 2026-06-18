@@ -362,25 +362,38 @@
 
     </script>
 
-</BODY>
-
-<!-- <audio controls>
-    <source src="mly.mp3" type="audio/ogg">
+<audio id="bg-music" loop autoplay preload="auto" playsinline>
     <source src="mly.mp3" type="audio/mpeg">
-</audio> -->
-
-<audio id="bg-music" loop>
-    <source src="https://lollins7.github.io//files/mly.mp3" type="audio/ogg">
-    <source src="https://lollins7.github.io//files/mly.mp3" type="audio/mpeg">
 </audio>
 
 <script>
-    document.addEventListener('click', function () {
-        var music = document.getElementById("bg-music");
-        music.play();
-    }, { once: true }); // 只触发一次
+    (function () {
+        var music = document.getElementById('bg-music');
+
+        function playMusic() {
+            var playPromise = music.play();
+
+            if (playPromise && typeof playPromise.catch === 'function') {
+                playPromise.catch(function () {
+                    // 部分浏览器会拦截未静音的自动播放；保留用户首次操作后的播放兜底。
+                });
+            }
+        }
+
+        function removeFallbackListeners() {
+            document.removeEventListener('click', playMusic);
+            document.removeEventListener('touchstart', playMusic);
+            document.removeEventListener('keydown', playMusic);
+        }
+
+        music.addEventListener('play', removeFallbackListeners, { once: true });
+        document.addEventListener('DOMContentLoaded', playMusic);
+        window.addEventListener('load', playMusic);
+        document.addEventListener('click', playMusic);
+        document.addEventListener('touchstart', playMusic);
+        document.addEventListener('keydown', playMusic);
+    })();
 </script>
 
-
-
+</BODY>
 </HTML>
